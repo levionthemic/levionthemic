@@ -5,7 +5,7 @@
 - 🔭 I'm developing a little E-Commerce Website just for fun :)
 
 ## 🚀 Skills
-💻 **Programming Language** JavaScript  
+💻 **Programming Languages:** Java, JavaScript  
 ⚡ **Frameworks:** ReactJS, Node.js  
 🎨 **Tools:** Basic Figma
 
