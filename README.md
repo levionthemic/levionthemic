@@ -9,9 +9,13 @@
 ⚡ **Frameworks:** ReactJS, Node.js  
 🎨 **Tools:** Basic Figma
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=levionthemic&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/your-username">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=levionthemic&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/your-username">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levionthemic&layout=compact&theme=radical" />
+  </a>
+</div>
 
-## 📈 Most used programming language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levionthemic&layout=compact&theme=radical)
 
