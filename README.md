@@ -2,9 +2,8 @@
 <h2 align="center">👨‍💻 Introduction 👨‍💻</h2>
 - 💼 I'm currently a Computer Science student who is passionate about Javascript.
 <br>
-- 💡 Hobbies: Code and learn everyday. I'm also a big fan of badminton, too. 
+- 💡 Hobbies: Code and learn everyday. Also a big fan of badminton. 
 <br>
-- 🔭 I'm developing a little E-Commerce Website just for fun :)
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
