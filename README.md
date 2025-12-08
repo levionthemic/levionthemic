@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm Levi
+# 🌟 Hi, I'm LowkeyLurker
 <h2 align="center">👨‍💻 Introduction 👨‍💻</h2>
 - 💼 I'm currently a Computer Science student who is passionate about Javascript.
 <br>
